@@ -1,10 +1,12 @@
+<image src='Kim_Petersen_-_Bartogh.png'>
 ### Hi there 👋, My name is Kim
 #### I'm a Husbond, Father, Grandfather, Learner, Curious man!
-![I'm a Husbond, Father, Grandfather, Learner, Curious man!](images/Kim_Petersen_-_Bartogh.png)
 
 I made this Readme just for fun, it allows me to have a nice and simple GitHub profile.
 
-Skills: zsh / tmux / vim / HTML / CSS / Markdown / LaTeX 
+It is likely to change a lot, as i am only learning at the moment (as always)
+
+Skills Learning: zsh / tmux / vim / HTML / CSS / Markdown / LaTeX 
 
 - 🔭 I’m currently working on making this page nice 
 - 🌱 I’m currently learning zsh, tmux, vim, latex, html, css, lua and python 
