@@ -1,5 +1,7 @@
 <image src='Kim_Petersen_-_Bartogh.png'>
+
 ### Hi there 👋, My name is Kim
+
 #### I'm a Husbond, Father, Grandfather, Learner, Curious man!
 
 I made this Readme just for fun, it allows me to have a nice and simple GitHub profile.
